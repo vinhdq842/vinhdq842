@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @vinhdq842
-- 👀 I’m interested in Deep Learning, Computer Vision
-- 📫 Contact me via email: quangvinh0842@gmail.com
+- 🔍 A software engineer who has always been seeking the best practices
+- 👀 An avid explorer of the fascinating realms of Deep Learning, Natural Language Processing, Speech Processing and even Computer Vision
+- 🧙‍♂️ I am also intrigued by the magical mathematics behind machine learning!
+- 📫 For any collaboration opportunities, feel free to reach out to me via email at quangvinh0842@gmail.com 🚀
 
 <!---
 vinhdq842/vinhdq842 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
